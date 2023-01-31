@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-FoyerTech/static/css/main.756af292.css",
+    "main.js": "/React-FoyerTech/static/js/main.bd70890c.js",
+    "static/js/787.0cdb2e64.chunk.js": "/React-FoyerTech/static/js/787.0cdb2e64.chunk.js",
+    "index.html": "/React-FoyerTech/index.html",
+    "main.756af292.css.map": "/React-FoyerTech/static/css/main.756af292.css.map",
+    "main.bd70890c.js.map": "/React-FoyerTech/static/js/main.bd70890c.js.map",
+    "787.0cdb2e64.chunk.js.map": "/React-FoyerTech/static/js/787.0cdb2e64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.bd70890c.js"
+  ]
+}
